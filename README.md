@@ -1,0 +1,2 @@
+# Sample_Bagpackering_Tours_Template
+Sample Backpacking Tours Website Template
